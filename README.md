@@ -10,6 +10,7 @@ hust数据库实验
   需要创建数据库实例
   使用如下命令创建初始基本表格
   
+  
   create table Student
   (Sno CHAR(9) PRIMARY KEY,
   Sname CHAR(20) UNIQUE,
