@@ -4,6 +4,8 @@ hust数据库实验
 #### 安装环境
   sqlserver
   SMSS
+  
+  python cmd、pymssql模块（可通过pip install 获得）
 
 #### 使用须知
   需要开启sql server 身份验证
